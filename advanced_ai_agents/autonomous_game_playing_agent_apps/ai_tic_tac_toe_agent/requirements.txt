@@ -155,7 +155,7 @@ pyproject-hooks==1.2.0
     #   pip-tools
 python-dateutil==2.9.0.post0
     # via pandas
-python-dotenv==1.0.1
+python-dotenv==1.2.2
     # via
     #   -r cookbook/examples/apps/tic_tac_toe/requirements.in
     #   agno
